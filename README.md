@@ -1,2 +1,2 @@
-# Time_Converter
+# Time Converter
  Comverts minutes to hours, and hours to minutes
